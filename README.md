@@ -1,7 +1,7 @@
-<img align="right" width="350" height="350" src="https://media.giphy.com/media/B4jfJqiIxvU08/giphy.gif">
+<img align="right" width="480" height="329" src="https://media.giphy.com/media/B4jfJqiIxvU08/giphy.gif">
 
 
-## 👋  Hy, my name is Stanislaw Cruz:  
+## 👋  Hi, my name is Stanislaw Cruz:  
 
 Graduated in Information Systems, frontend and backend developer with 10+ years of experience, projecting and maintaining Web Applications and Mobile Apps.
 
