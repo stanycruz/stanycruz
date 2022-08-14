@@ -3,7 +3,7 @@
 
 ## :sunglasses:  I'm Batman!
 
-Graduated in Information Systems, full-stack developer with 10+ years of experience, projecting and maintaining web apps and mobile apps.
+Graduated in Information Systems, full stack developer with 10+ years of experience, projecting and maintaining web apps and mobile apps.
 
 ## :rocket: About Me
 
