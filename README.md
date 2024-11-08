@@ -7,9 +7,9 @@ Graduated in Information Systems, full stack developer with 15+ years of experie
 
 ## :rocket: About Me
 
-:earth_americas: I'm from Fortaleza, CE - Brazil
+:earth_americas: I'm from Fortaleza, CE - Brazil.
 
-:guitar: I like to play rhythm guitar
+:guitar: I like to play rhythm guitar.
 
 🤘🏽 I love Heavy Metal and enjoy exploring its many subgenres, from classic and thrash to melodic and progressive.
 
